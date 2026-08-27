@@ -6,7 +6,7 @@ My primary experience is in C# / .NET / WPF, but much of my work has involved pr
 
 I enjoy digging into problems where latency, memory allocation, throughput, and architecture actually matter.  
 
-🔧 What I work with  
+## 🔧 What I work with  
 C# / .NET / WPF  
 C++  
 Multithreading & concurrency  
@@ -16,7 +16,7 @@ CUDA / GPU compute
 Real-time image processing  
 Native interoperability  
 
-🚀 Featured Project  
+## 🚀 Featured Project  
 GPU Polarization Imaging  
 
 A real-time polarization imaging pipeline featuring:  
@@ -30,14 +30,14 @@ Real-time visualization
 
 Originally inspired by a real-world industrial imaging problem and rebuilt as an independent technical project.  
 
-📚 Currently exploring  
+## 📚 Currently exploring  
 Modern C++  
 Real-time graphics  
 DirectX 11  
 Engine and systems programming  
 GPU architecture and performance  
 
-💡 Engineering interests  
+## 💡 Engineering interests  
 I particularly enjoy:  
 
 reducing unnecessary runtime allocation  
